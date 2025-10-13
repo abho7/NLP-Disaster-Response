@@ -19,3 +19,10 @@ This repository contains all code, documentation, and configuration files used i
    ```bash
    git clone https://github.com/AbhineethDuddela/NLP-Disaster-Response.git
    cd NLP-Disaster-Response
+
+ pip install -r requirements.txt
+
+ python models/train_bert.py
+
+ python evaluation/evaluate.py
+
