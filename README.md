@@ -7,7 +7,14 @@ submitted to the *National High School Journal of Science (NHSJS), 2025.*
 ---
 
 ## 📁 Repository Structure
-
+NLP-Disaster-Response/
+│
+├── data/ # Data preprocessing scripts and annotation schema
+├── models/ # Model training scripts (BERT and Naive Bayes)
+├── evaluation/ # Model evaluation and ROC curve generation
+├── figures/ # Publication figures (ROC curves, tables, etc.)
+├── results/ # Output metrics and model checkpoints
+└── requirements.txt # Dependencies
 ---
 
 ## ⚙️ Reproduction Instructions
