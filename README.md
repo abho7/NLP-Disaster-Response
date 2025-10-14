@@ -22,12 +22,13 @@ All code is lightweight and designed for **reproducibility** and review.
 ## 📁 Repository Structure
 
 NLP-Disaster-Response/
-data/ # Sample CSV data and preprocessing scripts
-models/ # Model training scripts (BERT and Naive Bayes)
-evaluation/ # Model evaluation and ROC curve generation
-figures/ # Publication figures (ROC curves, tables, etc.)
-results/ # Output metrics and model checkpoints
-requirements.txt # Python dependencies
+├── data/         # Sample CSV data and preprocessing scripts
+├── models/       # Model training scripts (BERT and Naive Bayes)
+├── evaluation/   # Model evaluation and ROC curve generation
+├── figures/      # Publication figures (ROC curves, tables, etc.)
+├── results/      # Output metrics and model checkpoints
+└── requirements.txt  # Python dependencies
+
 
 ---
 
