@@ -33,7 +33,7 @@ requirements.txt # Python dependencies
 
 ## ⚙️ Reproduction Instructions
 
-### 1️⃣ Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/AbhineethDuddela/NLP-Disaster-Response.git
 cd NLP-Disaster-Response
@@ -41,6 +41,7 @@ pip install -r requirements.txt
 python models/train_bert.py
 python evaluation/evaluate.py
 
+## NOTE
 Original tweets are not included due to Twitter policy. Scripts to re-scrape and annotate are provided.
 
 The sample_tweets.csv file illustrates the CSV format expected by the training and evaluation scripts.
