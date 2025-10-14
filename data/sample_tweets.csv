@@ -1,0 +1,11 @@
+id,text,label,location
+1,"Power out on Elm St. We need help!",high,"Joplin, MO"
+2,"Roads blocked but we're safe, thanks.",low,"Houston, TX"
+3,"My house collapsed, trapped under beams",high,"Kathmandu, Nepal"
+4,"Anyone have info about shelters?",medium,"Corpus Christi, TX"
+5,"Looks like a storm, hope everyone ok",low,"Austin, TX"
+6,"Roof gone. No water. Very cold. Send help.",high,"Galveston, TX"
+7,"Streets flooded, can't leave",medium,"Houston, TX"
+8,"We evacuated, all good",low,"San Antonio, TX"
+9,"Tents needed at Central Park",medium,"New York, NY"
+10,"Power restored! thanks @utility",low,"Dallas, TX"
